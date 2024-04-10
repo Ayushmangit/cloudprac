@@ -1,0 +1,22 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+ }
+ 
+ body{
+    margin: 0px auto;
+    color: #f7f7f7;
+    height: 100vh;
+    background-image: url(oswald-elsaboath-ym_EI-DTS1g-unsplash.jpg);
+    object-fit: cover;
+ }
+a{
+    display: inline-block;
+    background-color:#2f9e44;
+    padding: 12px 28px;
+    text-decoration: none;
+    color: #f7f7f7;
+    border-radius: 12px;
+}
